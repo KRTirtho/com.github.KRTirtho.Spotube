@@ -29,6 +29,6 @@ modules:
   - ln -s /app/spotube/spotube /app/bin/spotube
   sources:
   - type: archive
-    url: https://github.com/KRTirtho/spotube/releases/download/v2.7.0/Spotube-linux-x86_64.tar.xz
+    url: https://github.com/KRTirtho/spotube/releases/download/v3.0.0/spotube-linux-3.0.0-x86_64.tar.xz
     dest: spotube
-    sha256: 0a9cf24b59b8ef3e3a5132ddfe9852b1741e7a0e062cef6464642df94c965f64
+    sha256: 82e0c31f4b315cc93ea219510265f9470fc6fe7506decf1ad53841bd07bdb050
