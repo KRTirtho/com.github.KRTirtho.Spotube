@@ -51,8 +51,8 @@ modules:
       - install yt-dlp /app/bin
     sources:
       - type: archive
-        url: "https://github.com/yt-dlp/yt-dlp/archive/refs/tags/2025.09.05.tar.gz"
-        sha256: "ee27c601e60d703dc3e16f8d6306cbffd2a4dc801e3fa91d6323f496dd8a52ec"
+        url: "https://github.com/yt-dlp/yt-dlp/archive/refs/tags/2025.09.23.tar.gz"
+        sha256: "ba2f0ebf715836a506f54e3062ff1448bfa8314c9db7b8ed7697a26decafdda8"
   - name: jsoncpp
     buildsystem: meson
     config-opts:
